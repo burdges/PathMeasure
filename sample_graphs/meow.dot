@@ -1,0 +1,6 @@
+graph meow {
+	a -- b -- c;
+	a -- c -- d -- e -- f;
+	e -- g -- f;
+}
+

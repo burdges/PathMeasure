@@ -1,0 +1,10 @@
+
+You may build the project by simply installing the Boost Graph Library and then
+running make.  You may run it with commands like :
+
+./pathmeasure -p 0.5 -f 1000 -t 10000 dot/triangle.dot
+
+We use the Mersinne twister random number generator from http://www.agner.org/random/,
+download randomc.zip and extract the files randomc.h, mersenne.cpp, and userintf.cpp.
+
+

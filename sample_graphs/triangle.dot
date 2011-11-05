@@ -1,0 +1,5 @@
+graph triangle {
+	a -- b -- c;
+	a -- c;
+}
+

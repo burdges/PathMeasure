@@ -1,0 +1,7 @@
+graph star {
+	x -- y
+	x -- a -- y;
+	x -- b -- y;
+	x -- c -- y;
+}
+
